@@ -14,4 +14,4 @@ After, I considered a "limiting" case caused by the actuator. I knew that based 
 
 I then collected my givens, variables, and assumptions to create parametrizations of height change and maximum supported weighted. 
 
-![Some calculations and descriptions]({{ "/assets/images/actuator-parametrization" | relative_url }}){: .inline-image-l}
+![Some calculations and descriptions]({{ "/assets/images/actuator-parametrization.png" | relative_url }}){: .inline-image-l}
