@@ -11,5 +11,8 @@ I will be analyzing a cold plate with 4 passes from the McMaster-Carr catalog (p
 
 ![Heat Exchanger CV](/assets/images/HE_CV_analysis.jpg)
 
+![Heat Exchanger Equations](/assets/images/HE_eqns.jpg)
+
+I can change the Q_in by increasing the number of passes of the tube. This increases surface area for heat transfer across the tube.
 
 
