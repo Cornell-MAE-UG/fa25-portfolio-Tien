@@ -3,7 +3,7 @@ layout: project
 title: Analysis of a Heat Exchanger
 description: Class Assignment
 technologies: [N/A]
-image: /assets/images/function-graph.png
+image: /assets/images/HE_schematic.jpg
 ---
 
 
