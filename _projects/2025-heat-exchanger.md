@@ -7,11 +7,23 @@ image: /assets/images/HE_schematic.jpg
 ---
 
 
-I will be analyzing a cold plate with 4 passes from the McMaster-Carr catalog (product 35035K101). This device is a heat exchanger, that works by passing a cold fluid through tubes to absorb heat from its surroundings through conduction or convection.
+For my Thermodynamics course, I designed and analyzed how a direct to chip (D2C) cooling system operates. D2C uses conduction to cool computer chips to enhance computing performance. Chip cooling is essential on any scale, from personal computers to AI data centers. 
 
-![Heat Exchanger CV](/fa25-portfolio-Tien/assets/images/HE_CV_analysis.jpg)
 
-![Heat Exchanger Equations](/fa25-portfolio-Tien/assets/images/HE_eqns.jpg)
+![Heat Exchanger CV](/fa25-portfolio-Tien/assets/images/D2C_schem.jpeg)
+
+Above is a simplified schematic of a D2C system. 
+Components:
+Working Fluid: The medium in which heat is transferred. I will be using water in my design.
+Cold Plate: Absorbs heat dissipated by a chip through its thermally conductive plate to the working fluid that flows beneath it. I will be using McMaster-Carr Cold Plate 35035K121. 
+Heat Exchanger: Re-cools the working fluid to continue heat transfer. I will be using McMaster-Carr Heat Exchanger 3771K14
+Chip: I’m using the Intel Xeon Platinum 8180 CPU. I found the dimensions and thermal design power from https://www.intel.com/content/dam/www/public/us/en/documents/guides/xeon-scalable-thermal-guide.pdf
+
+
+
+![Heat Exchanger Equations](/fa25-portfolio-Tien/assets/images/analysis.jpeg)
+
+![Heat Exchanger Equations](/fa25-portfolio-Tien/assets/images/numerical.jpg)
 
 
 I can change the Q_in by increasing the number of passes of the tube. This increases surface area for heat transfer across the tube.
