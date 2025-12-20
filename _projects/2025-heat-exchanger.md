@@ -23,7 +23,7 @@ Chip: I’m using the Intel Xeon Platinum 8180 CPU. I found the dimensions and t
 
 ![Heat Exchanger Equations](/fa25-portfolio-Tien/assets/images/analysis.jpeg)
 
-![Heat Exchanger Equations](/fa25-portfolio-Tien/assets/images/numerical.jpg)
+![Heat Exchanger Equations](/fa25-portfolio-Tien/assets/images/numerical.jpeg)
 
 
 I can change the Q_in by increasing the number of passes of the tube. This increases surface area for heat transfer across the tube.
