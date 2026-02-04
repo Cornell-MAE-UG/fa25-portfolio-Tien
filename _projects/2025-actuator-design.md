@@ -2,11 +2,11 @@
 layout: project
 title: Actuator Optimization
 description: Homework Project in MAE 2020 Statics
-technologies: 
+technologies: Brain!
 image: /assets/images/actuator-cases.png
 ---
 
-For my Statics homework, I had to design an optimal design with one actuator, one rigid bar, three pins, and a 2D 150cm by 50cm design space that would raise the heaviest weight with the greatest height change. From a provided list of actuators, I chose the IMA55 RN05 because it had the greatest thrust force of 35.81kN. 
+For my Statics course, I designed an optimal design with one actuator, one rigid bar, three pins, and a 2D 150cm by 50cm design space that would raise the heaviest weight with the greatest height change. From a provided list of actuators, I chose the IMA55 RN05 because it had the greatest thrust force of 35.81kN. 
 
 I started my design by thinking of how to support the heaviest weight without considering height change. I knew that if I just placed a weight on a vertical bar, there would be no weight limit. 
 
