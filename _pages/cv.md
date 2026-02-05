@@ -5,22 +5,22 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/TIEN_PHAN_CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [tp422@cornell.edu](mailto:tp422@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [tp422@cornell.edu](mailto:tp422@cornell.edu) 
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring mechanical engineering student at Cornell Duffield Engineering. 
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: /4.0 | Graduation: May, 2028
+  Graduation: May, 2028
 
 - **[Commonwealth School]**  
   *High School Diploma*  
@@ -29,7 +29,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, 
+- **Software:** Autodesk Fusion, 
 - **Programming:** Python, Java, DrRacket  
 - **Tools:** 
 
