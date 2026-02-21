@@ -7,8 +7,8 @@ image: /assets/images/spotted_lanternfly.jpg
 
 # Open Design Project: Sp﻿otted Lanternflies
 
-**Team:** *Sinicus*  
-**Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
+- **Team:** *Sinicus*
+- **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
 
 ---
 
@@ -16,7 +16,7 @@ image: /assets/images/spotted_lanternfly.jpg
 
 Spotted lanternflies (SLFs) feed on the phloem of grapevines, reducing nitrogen and carbon in the roots and soil and negatively affecting the taste and size of future grape harvests. If SLFs are left unchecked, they can ultimately kill an entire vineyard.
 
-Moreover, the accepted tolerance of SLFs in grape products is extremely low. Only **1–2 SLFs per kilogram of grapes** are required to reject a **22-ton batch**. Ensuring that SLFs are not present on the vine before harvest addresses contamination without adding complexity or delaying the harvesting process.
+Moreover, the accepted tolerance of SLFs in grape products is extremely low. Only **1–2 SLFs per kilogram of grapes** are required to reject a **22-ton batch**. Ens﻿uring that SLFs are not present on the vine before harvest addresses contamination without adding complexity or delaying the harvesting process.
 
 ---
 
@@ -41,36 +41,36 @@ A perimeter system that attracts spotted lanternflies using vibroacoustic or ele
 
 **How it would be used**
 
-1. Install perimeter wire around vineyard rows.
-2. Emit frequencies that attract SLFs.
-3. Detect insect presence.
-4. Trigger localized pesticide spray.
+1. Install perimeter wire around vineyard rows  
+2. Emit frequencies that attract SLFs  
+3. Detect insect presence  
+4. Trigger localized pesticide spray  
 
 **Why it improves current methods**
 
-- Prevents infestation rather than reacting to it.
-- Reduces pesticide use inside vineyard rows.
-- Limits crop contamination risk.
+- Prevents infestation rather than reacting to it  
+- Reduces pesticide use inside vineyard rows  
+- Limits crop contamination risk  
 
 **End-of-semester proof of concept**
 
-- Demonstrate attraction using vibroacoustic stimulus.
-- Build a small-scale detection & spray trigger system.
+- Demonstrate attraction using vibroacoustic stimulus  
+- Build a small-scale detection & spray trigger system  
 
 ---
 
 ## Key Risks & Unknowns
 
-- New York State has over **30,000 acres** of vineyards; scaling may be costly.
-- If prevention fails, SLFs could still contaminate harvests.
-- Vibroacoustic attraction may affect beneficial insects.
-- Electrified systems may pose risks to wildlife (deer, raccoons, rabbits, etc.).
+- New York State has over **30,000 acres** of vineyards; scaling may be costly.  
+- If prevention fails, SLFs could still contaminate harvests.  
+- Vibroacoustic attraction may affect beneficial insects.  
+- Electrified systems may pose risks to wildlife (deer, raccoons, rabbits, etc.).  
 
 ---
 
 ## Questions for the Client
 
-1. Have attraction-based SLF control methods been tested before?
+1. Have attraction-based SLF control methods been tested before?  
 2. When SLFs land on grapevines, do they remain on one vine or move between rows?
 
 ---
