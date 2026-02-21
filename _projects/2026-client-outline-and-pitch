@@ -5,7 +5,25 @@ description: Class Assignment
 image: /assets/images/spotted_lanternfly.jpg
 ---
 
-# Open Design Project: Sp﻿otted Lanternflies
+<style>
+.project-content p {
+  margin-bottom: 1em !important;
+  line-height: 1.65 !important;
+}
+.project-content li {
+  margin-bottom: 0.45em !important;
+}
+.project-content h1,
+.project-content h2,
+.project-content h3 {
+  margin-top: 1.4em !important;
+  margin-bottom: 0.6em !important;
+}
+</style>
+
+<div class="project-content">
+
+# Open Design Project: Spotted Lanternflies
 
 - **Team:** *Sinicus*
 - **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape
@@ -14,64 +32,20 @@ image: /assets/images/spotted_lanternfly.jpg
 
 ## Problem Statement
 
-Spotted lanternflies (SLFs) feed on the phloem of grapevines, reducing nitrogen and carbon in the roots and soil and negatively affecting the taste and size of future grape harvests. If SLFs are left unchecked, they can ultimately kill an entire vineyard.
+Spotted lanternflies (SLFs) feed on the phloem of grapevines, reducing nitrogen and carbon in the roots and soil and negatively affecting future grape harvests.
 
-Moreover, the accepted tolerance of SLFs in grape products is extremely low. Only **1–2 SLFs per kilogram of grapes** are required to reject a **22-ton batch**. Ens﻿uring that SLFs are not present on the vine before harvest addresses contamination without adding complexity or delaying the harvesting process.
+If SLFs are left unchecked, they can ultimately kill an entire vineyard.
+
+Moreover, only **1–2 SLFs per kilogram** of grapes are required to reject a **22-ton batch**, making prevention essential.
 
 ---
 
 ## Impact
 
-Solving this problem benefits the grape industry by reducing throwaway batches while improving the quality of present and future harvests.
-
-- Just **1–2 SLFs per kilogram** can cause an entire 22-ton batch to be rejected.
-- Eliminating SLFs preserves crop integrity and improves profitability.
-- SLFs weaken vines by feeding on phloem.
-- Healthy vines can produce quality fruit for **50+ years**, but SLF damage shortens their lifespan.
-
-Preventing infestation protects both immediate harvest yield and long-term vineyard productivity.
-
----
-
-## Proposed Direction
-
-### Electrical Fence Lure & Targeted Pesticide System
-
-A perimeter system that attracts spotted lanternflies using vibroacoustic or electrical stimuli and eliminates them before they reach grapevines.
-
-**How it would be used**
-
-1. Install perimeter wire around vineyard rows  
-2. Emit frequencies that attract SLFs  
-3. Detect insect presence  
-4. Trigger localized pesticide spray  
-
-**Why it improves current methods**
-
-- Prevents infestation rather than reacting to it  
-- Reduces pesticide use inside vineyard rows  
-- Limits crop contamination risk  
-
-**End-of-semester proof of concept**
-
-- Demonstrate attraction using vibroacoustic stimulus  
-- Build a small-scale detection & spray trigger system  
-
----
-
-## Key Risks & Unknowns
-
-- New York State has over **30,000 acres** of vineyards; scaling may be costly.  
-- If prevention fails, SLFs could still contaminate harvests.  
-- Vibroacoustic attraction may affect beneficial insects.  
-- Electrified systems may pose risks to wildlife (deer, raccoons, rabbits, etc.).  
-
----
-
-## Questions for the Client
-
-1. Have attraction-based SLF control methods been tested before?  
-2. When SLFs land on grapevines, do they remain on one vine or move between rows?
+- Eliminates contaminated batches  
+- Protects vineyard profitability  
+- Pres﻿erves long-term vine health  
+- Extends productive lifespan beyond 50 years  
 
 ---
 
@@ -82,19 +56,8 @@ A perimeter system that attracts spotted lanternflies using vibroacoustic or ele
        alt="Solution diagram"
        style="max-width:100%; height:auto;">
   <figcaption>
-    <strong>Figure 1:</strong> Diagram of the intended full-scale solution and class proof of concept.
+    <strong>Figure 1:</strong> Proof-of-concept solution diagram.
   </figcaption>
 </figure>
 
----
-
-## References
-
-Harner, A. D., et al. (2022). *Prolonged phloem feeding by the spotted lanternfly alters resource allocation and inhibits gas exchange in grapevines.* Plant Direct, 6(10).  
-https://doi.org/10.1002/pld3.452
-
-Petit, E., et al. (2023). *New England and New York Grape Production Survey.* Fruit Notes 88.  
-http://umassfruitnotes.com/v88n1/FN6.pdf
-
-Rohde, B., et al. (2022). *Evidence of receptivity to vibroacoustic stimuli in the spotted lanternfly.* Journal of Economic Entomology, 115(6), 2116–2120.  
-https://doi.org/10.1093/jee/toac167
+</div>
