@@ -75,18 +75,6 @@ A perimeter system that attracts spotted lanternflies using vibroacoustic or ele
 
 ---
 
-## Figure
-
-<figure style="text-align:center;">
-  <img src="{{ '/assets/images/odp_figure.jpg' | relative_url }}"
-       alt="Solution diagram"
-       style="max-width:100%; height:auto;">
-  <figcaption>
-    <strong>Figure 1:</strong> Diagram of the intended full-scale solution and class proof of concept.
-  </figcaption>
-</figure>
-
----
 
 ## References
 
