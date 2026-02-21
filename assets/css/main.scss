@@ -8,3 +8,22 @@ $color_scheme: '{{ site.color_scheme }}';
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Merriweather:wght@400;700&display=swap');
 @import "custom";
 
+/* Fix compressed text spacing */
+
+p {
+  margin-bottom: 1em;
+  line-height: 1.6;
+}
+
+li {
+  margin-bottom: 0.4em;
+}
+
+h1, h2, h3 {
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+}
+
+ul, ol {
+  margin-bottom: 1em;
+}
