@@ -1,0 +1,71 @@
+---
+layout: default
+title: Functional Prototype - ODP5
+---
+
+# Sinicus M3 ODP 5: Functional Prototype
+
+## Design Documentation
+
+---
+
+## Part Specifications & Fabrication Details
+
+### Wax Fabric
+- **Size:** 12 in OD  
+- **Material:** From a previous TA  
+- **Fabrication:** Cut with scissors  
+
+### Disk
+- **Size:** 12 in OD  
+- **Material:** TDS wood  
+- **Fabrication:** Hand sawed diameter, sanded to round  
+
+### Rake
+
+#### Wood Rake
+- **Dimensions:** 6 in x 3 in wood  
+- **Teeth:** 9 teeth, each 1.5 in long  
+
+#### Metal Rake
+- **Materials:**  
+  - TDS wood  
+  - Malin Co. galvanized annealed wire (Gauge 0.080)
+
+---
+
+### Crank
+- **Rod:** 4.5 in long, 1 in OD  
+- **Handle:** 2 in x 7 in wood  
+- **Fabrication:**  
+  - Drill press used to create holes for axle and handle  
+
+### Axle
+- **Size:** 1 in OD  
+- **Material:** TDS wood rod  
+- **Fabrication:** No processing  
+
+---
+
+### Collection Box
+- **Base:** 6.25 in x 6 in  
+- **Notes:** Adjustable width for testing  
+- **Fabrication:** Sawing machine  
+
+---
+
+### Disk Stand
+- **Main piece:** 3 in x 11 in wood  
+- **Supports:** Two 3 in x 6 in pieces  
+- **Fabrication:**  
+  - Sawing machine  
+  - Superglue assembly  
+  - Drilled 1 in OD hole for axle (~10 in height)  
+
+---
+
+## Illustration
+
+*(Insert images here if needed using:)*  
+```md
+![Prototype Illustration]({{ "/assets/images/prototype.png" | relative_url }})
