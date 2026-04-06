@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 2250 – ODP 3: Client Outline and Pitch
+title: MAE 2250 – Open Design Project
 description: Class Assignment
 image: /assets/images/spotted_lanternfly.jpg
 ---
