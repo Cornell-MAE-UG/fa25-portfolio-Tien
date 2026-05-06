@@ -2,7 +2,7 @@
 layout: project
 title: MAE 2250 - Exhibit Client Report
 description: Class Assignment
-image: /assets/images/spotted_lanternfly4.jpg
+image: /assets/images/ODP_Cover.jpg
 fontsize: 11pt
 geometry: margin=1in
 papersize: letter
