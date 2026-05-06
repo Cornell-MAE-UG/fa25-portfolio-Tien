@@ -2,6 +2,7 @@
 layout: project
 title: MAE 2250 – Open Design Project 4
 description: Class Assignment
+image: /assets/images/ODP4Cover.jpg
 ---
 
 <h1> Sinicus M3 ODP 4: First Prototype </h1>
