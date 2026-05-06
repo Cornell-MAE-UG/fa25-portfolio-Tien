@@ -23,21 +23,21 @@ We built a hand crank mechanism that attracts SLFs and sweeps them into a collec
 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/final_presentation_assembly.png' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/mockup.jpeg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center> Fig 1. Rough sketch of final prototype </center>
 <br>
 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/overall_assembly_diagram.png' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/assembly.png' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center> Fig 2a. Overall Assembly Diagram </center>
 <br>
 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/shaft_stand_detail.png' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/stand.png' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center> Fig 2b. Detail of Shaft and Stand Assembly</center>
 <br>
@@ -57,14 +57,14 @@ We first tested the functionality of two different rake styles at sweeping off S
 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/rake_1.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/rake1.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center>Fig 2. Prototype rake style 1</center>
 <br>
 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/rake_2.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/rake2.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center>Fig 3. Prototype rake style 2</center>
 <br>
